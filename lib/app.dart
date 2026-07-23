@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
 import 'package:medic_time/core/config/flavor_config.dart';
-import 'package:medic_time/core/route/app_routes.dart';
+import 'package:medic_time/core/routes/app_routes.dart';
 
 void bootstrap(FlavorConfig config) {
   runApp(const App());
