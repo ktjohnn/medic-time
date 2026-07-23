@@ -36,6 +36,7 @@ gradle
 .pub/
 /build/
 /coverage/
+metadata
 
 # Symbolication related
 app.*.symbols
